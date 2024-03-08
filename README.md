@@ -1,2 +1,1 @@
-# AULADANILO
-Atividades
+# Pseudocodigos
